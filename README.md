@@ -1,6 +1,6 @@
 # PDF画像抽出ツール
 
-このプロジェクトは、PythonとStreamlitを使用して、PDFファイルから画像を抽出し、ダウンロードできるWebアプリケーションです。PDFドキュメントに埋め込まれた画像を簡単に取得したい場合に便利です。
+このプロジェクトは、PythonとStreamlitを使用して、PDFファイルから画像を抽出し、ダウンロードできる[Webアプリケーション](https://pdfimageextractorapp-wpnarypj6mhvkkyh4r6xn2.streamlit.app/)です。PDFドキュメントに埋め込まれた画像を簡単に取得したい場合に便利です。
 
 ## 使用している主な技術
 
